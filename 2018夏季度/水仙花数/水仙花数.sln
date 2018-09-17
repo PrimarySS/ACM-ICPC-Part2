@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "水仙花数", "水仙花数\水仙花数.vcxproj", "{0461655F-F0FF-4205-B431-E2A47254EE19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最值交换", "..\最值交换\最值交换.vcxproj", "{4F692926-7A50-47C9-9527-FA5644694CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0461655F-F0FF-4205-B431-E2A47254EE19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0461655F-F0FF-4205-B431-E2A47254EE19}.Debug|Win32.Build.0 = Debug|Win32
+		{0461655F-F0FF-4205-B431-E2A47254EE19}.Release|Win32.ActiveCfg = Release|Win32
+		{0461655F-F0FF-4205-B431-E2A47254EE19}.Release|Win32.Build.0 = Release|Win32
+		{4F692926-7A50-47C9-9527-FA5644694CFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F692926-7A50-47C9-9527-FA5644694CFF}.Debug|Win32.Build.0 = Debug|Win32
+		{4F692926-7A50-47C9-9527-FA5644694CFF}.Release|Win32.ActiveCfg = Release|Win32
+		{4F692926-7A50-47C9-9527-FA5644694CFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "木桶排序", "木桶排序\木桶排序.vcxproj", "{DE3B1CE1-9728-4F2C-A0E2-1AF0B3CF4B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3B1CE1-9728-4F2C-A0E2-1AF0B3CF4B0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE3B1CE1-9728-4F2C-A0E2-1AF0B3CF4B0E}.Debug|Win32.Build.0 = Debug|Win32
+		{DE3B1CE1-9728-4F2C-A0E2-1AF0B3CF4B0E}.Release|Win32.ActiveCfg = Release|Win32
+		{DE3B1CE1-9728-4F2C-A0E2-1AF0B3CF4B0E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "摘苹果", "摘苹果\摘苹果.vcxproj", "{65B7E904-B8E4-466C-B3CF-BC595FE5C45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B7E904-B8E4-466C-B3CF-BC595FE5C45E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65B7E904-B8E4-466C-B3CF-BC595FE5C45E}.Debug|Win32.Build.0 = Debug|Win32
+		{65B7E904-B8E4-466C-B3CF-BC595FE5C45E}.Release|Win32.ActiveCfg = Release|Win32
+		{65B7E904-B8E4-466C-B3CF-BC595FE5C45E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

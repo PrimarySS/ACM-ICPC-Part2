@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "投票统计", "投票统计\投票统计.vcxproj", "{68A6825E-4FB0-44F1-81BB-625A144EF12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A6825E-4FB0-44F1-81BB-625A144EF12A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68A6825E-4FB0-44F1-81BB-625A144EF12A}.Debug|Win32.Build.0 = Debug|Win32
+		{68A6825E-4FB0-44F1-81BB-625A144EF12A}.Release|Win32.ActiveCfg = Release|Win32
+		{68A6825E-4FB0-44F1-81BB-625A144EF12A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
